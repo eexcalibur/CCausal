@@ -1,0 +1,3 @@
+- conda install -c conda-forge graph_tool
+- conda install -c conda-forge scikit-learn
+- pip install lingam skccm
